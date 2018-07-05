@@ -21,3 +21,9 @@ clone到本地后：
 会自动打开浏览器，启动本地server，默认端口为8080.可以在chrome浏览器中显示和调试。
 
 ## 2.效果
+
+
+![此处输入图片的描述][1]
+
+
+  [1]: https://github.com/forthealllight/redux-saga-example/blob/master/src/assets/images/login.gif
