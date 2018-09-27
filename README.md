@@ -1,26 +1,27 @@
 # redux-saga-example
+
 a example to use redux-saga as the middleware of redux
 
-# 这是一个redux-saga的demo，包含了登入登出和首页显示
+# this is a demo of redux-saga，Includes login, logout and home page display.
 ------
 
 
 
-## 1.安装和使用
+## 1.Installation and Use
 
-clone到本地后：
+clone back to the local：
 
-### (1) 安装
+### (1) Installation
 
       npm install
       
-### (2)使用
+### (2) Use
 
       npm run server
       
-会自动打开浏览器，启动本地server，默认端口为8080.可以在chrome浏览器中显示和调试。
+It will open the browser automatically，start local server，host is 8080.
 
-## 2.效果
+## 2.Effection
 
 
 ![此处输入图片的描述][1]
